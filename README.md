@@ -1,16 +1,13 @@
-### Hi there 👋
+# Sample test index.html file
 
-<!--
-**anmolanandbits/anmolanandbits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## To setup the environment
+This is sample test file which has an index.tml file saying hello to the world 
 
-Here are some ideas to get you started:
+After cloning this repository, run the following commands from top directory:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```console
+git clone 
+git add .
+git commit -m "message"
+git push 
+```
